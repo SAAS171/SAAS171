@@ -1,39 +1,48 @@
-[![Ali Asghar Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAAS171)](https://github.com/SAAS171/github-readme-activity-graph)
+[![Ali Asghar GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAAS171&theme=react-dark)](https://github.com/SAAS171/github-readme-activity-graph)
 
-[![Ali Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAAS171)](https://github.com/SAAS171/github-readme-stats)
+[![Ali Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAAS171&show_icons=true&theme=radical)](https://github.com/SAAS171/github-readme-stats)
 
+# 👋 Hi, I'm Ali Asghar
 
-# 👋 Hi there, I'm Ali Asghar
+I'm a software developer based in Islamabad who enjoys transforming ideas into reliable digital products. I love working across the stack, experimenting with new frameworks, and sharing what I learn along the way.
 
-## 🚀 About Me
-I'm a passionate Software devolpment based in Islamabad.
+---
 
-## 🛠 Skills
+## 🛠️ Technical Toolbox
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** MongoDB, PostgreSQL
+- **Languages:** JavaScript, TypeScript, Python
+- **Tools & Platforms:** Git, GitHub Actions, Docker
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
-## 🌱 I'm currently learning
-- Vue.js
-- Next.js
-- Node.js
+## 📚 Currently Exploring
+- Building scalable applications with **Next.js**
+- Progressive web app patterns in **Vue.js**
+- Advanced backend patterns in **Node.js**
 
+---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SAAS171&show_icons=true&theme=radical)
+## 📈 GitHub Highlights
+- Passionate about clean, maintainable code and collaborative development.
+- Consistently contributing to personal and open-source projects.
+- Always experimenting with new technologies to grow as a developer.
 
-## 🌐 Connect with me
+---
+
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
 
-## 📫 How to reach me
-You can reach me at [ali.asghar1084@gmail.com](mailto:ali.asghar1084@gmail.com)
+📫 Reach me at **[ali.asghar1084@gmail.com](mailto:ali.asghar1084@gmail.com)**
 
-<!-- ## 😄 Fun fact
-[Share an interesting or fun fact about yourself] -->
+---
 
-<!-- --- -->
+> "The best way to predict the future is to create it." – Peter Drucker
